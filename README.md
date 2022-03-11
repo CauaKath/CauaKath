@@ -4,7 +4,6 @@
 
 <hr>
 
-### Here's my stats on GitHub
 <div align="center">
   <a href="https://github.com/cauakath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauakath&show_icons=true&theme=dracula&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
