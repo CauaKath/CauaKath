@@ -1,6 +1,4 @@
-### Hi there, my name is Cauã
-
-#### I'm a back-end developer with some front-end experience, and I have 2/3 years of contact with programming.
+## Hi my name is Cauã, I'm a back-end developer with some front-end experience.
 
 <hr>
 
