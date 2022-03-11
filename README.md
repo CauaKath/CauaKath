@@ -1,8 +1,8 @@
 ## Hi my name is Cauã, I'm a back-end developer with some front-end experience.
 <div align="center">
   <a href="https://github.com/cauakath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauakath&show_icons=true&theme=dracula&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauakath&layout=compact&langs_count=7&theme=dracula&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cauakath&show_icons=true&theme=dracula&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauakath&layout=compact&langs_count=7&theme=dracula&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
 </div>
   
 <hr>
