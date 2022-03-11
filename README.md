@@ -4,6 +4,15 @@
 
 <hr>
 
+### Here's my stats on GitHub
+<div align="center">
+  <a href="https://github.com/cauakath">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauakath&show_icons=true&theme=dracula&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauakath&layout=compact&langs_count=7&theme=dracula&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
+</div>
+  
+<hr>
+
 ### My techs
 
 #### Front-end
@@ -33,15 +42,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <p/>
-
-<hr>
-
-### Here's my stats on GitHub
-
-![CauaKath's GitHub stats](https://github-readme-stats.vercel.app/api/?username=cauakath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<hr>
-
-### Here's my most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauakath&title_color=fff&text_color=9f9f9f&bg_color=151515)
