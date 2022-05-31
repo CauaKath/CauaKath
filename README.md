@@ -46,7 +46,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a/>
-  <a href="#">
+  <a href="https://twitter.com/cauakath_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   <a/>
   <a href="https://www.linkedin.com/in/cau%C3%A3-guilherme-kath-24982720b/">
