@@ -55,7 +55,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <a/>
-  <a href="#">
+  <a href="https://open.spotify.com/user/y395wywu2z96k2h6cq59useom">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <a/>
 <p/>
