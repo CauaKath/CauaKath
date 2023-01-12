@@ -4,11 +4,7 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/cauakath">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cauakath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauakath&layout=compact&langs_count=7&theme=dracula&title_color=fff&text_color=9f9f9f&bg_color=151515"/>
-</div>
+![87-879594_computer-programming-wallpaper](https://user-images.githubusercontent.com/80467897/212075020-7cedee15-1ee1-4b0f-9218-6be2c66fb376.jpg)
   
 <hr>
 
