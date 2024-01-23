@@ -8,7 +8,9 @@
   
 <hr>
 
-🪴 I'm currently learning Vue 3 to improve myself and do a project in the company I work for. ([Adapcon](https://github.com/Adapcon)).
+🪴 I'm currently learning Go to improve my knowledge and language portfolio. I'm reading a Go book and doing some exercises from the book. [Book](https://www.gopl.io/)
+
+🚀 I started learning Go to create a project for Jaraguá do Sul city hall, focused on disabled people. [Repo](https://github.com/conexao-inclusao-jaragua/cij-api)
   
 <hr>
   
